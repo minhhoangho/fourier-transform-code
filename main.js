@@ -1,4 +1,5 @@
-const FILE_PATH = "./sgroup.json"
+// const FILE_PATH = "./sgroup.json"
+const FILE_PATH = "./est-rouge-logo.json"
 let DATA = []
 
 
